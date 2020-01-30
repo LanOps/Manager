@@ -1,6 +1,6 @@
 # Eventula Lan Manager
 
-## The repo has been moved. Docker Images are still available.
+## The repo has been permanently moved
 
 
 https://staging.eventula.com
