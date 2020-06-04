@@ -2,9 +2,7 @@
 
 ## The repo has been permanently moved
 
-
-https://staging.eventula.com
-
+https://github.com/th0rn0/eventula-manager
 
 ## Sites that use the Event Manager
 
